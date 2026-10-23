@@ -1,0 +1,31 @@
+{
+    "name": "PRIYA SHARMA",
+    "email": "priya.sharma@example.org",
+    "phone": "+919123456780",
+    "skills": [
+        "Data Analysis",
+        "GitHub",
+        "NumPy",
+        "Pandas",
+        "Power BI",
+        "Python",
+        "SQL"
+    ],
+    "education": [
+        {
+            "degree": "B.E",
+            "institution": "XYZ Institute of Technology",
+            "details": "B.E. - XYZ Institute of Technology"
+        }
+    ],
+    "work_experience": [
+        {
+            "details": "Data Analyst Intern - Sample Analytics"
+        },
+        {
+            "details": "Prepared reports and cleaned datasets using Python."
+        }
+    ],
+    "linkedin": null,
+    "github": "https://github.com/priyasharma"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "ALEX MORGAN",
+    "email": "alex.morgan@example.net",
+    "phone": "+14155550134",
+    "skills": [
+        "CSS",
+        "Git",
+        "HTML",
+        "JavaScript",
+        "React",
+        "REST APIs"
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's",
+            "institution": "Example College",
+            "details": "Bachelor's - Example College"
+        }
+    ],
+    "work_experience": [
+        {
+            "details": "Web Development Intern - Demo Web Labs"
+        },
+        {
+            "details": "Built and tested responsive web pages."
+        }
+    ],
+    "linkedin": "https://www.linkedin.com/in/alexmorgan",
+    "github": null
+}

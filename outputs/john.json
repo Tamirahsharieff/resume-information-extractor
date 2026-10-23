@@ -1,0 +1,32 @@
+{
+    "name": "JOHN DOE",
+    "email": "john.doe@example.com",
+    "phone": "+919876543210",
+    "skills": [
+        "Flask",
+        "Git",
+        "GitHub",
+        "Java",
+        "Machine Learning",
+        "Python",
+        "REST APIs",
+        "SQL"
+    ],
+    "education": [
+        {
+            "degree": "B.Tech",
+            "institution": "ABC University",
+            "details": "B.Tech - ABC University"
+        }
+    ],
+    "work_experience": [
+        {
+            "details": "Software Development Intern - Example Technologies"
+        },
+        {
+            "details": "Developed Python scripts and tested REST APIs."
+        }
+    ],
+    "linkedin": "https://www.linkedin.com/in/johndoe",
+    "github": "https://github.com/johndoe"
+}
